@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(270deg,pink,rgb(226, 43, 43));
+}
+label
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-variant-caps:petite-caps;
+}
+h2{
+    margin-top: 30px;
+    font-family: cursive;
+    color:green
+    
+}
